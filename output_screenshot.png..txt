@@ -1,0 +1,5 @@
+Moisture: 65%
+Moisture: 58%
+Moisture: 42%
+Moisture: 28%
+ALERT: Plant needs water!
